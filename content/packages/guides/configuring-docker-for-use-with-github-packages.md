@@ -1,3 +1,4 @@
+![Uploading FFCDDCA7-0552-43F8-8C49-71B8443A67E3.jpeg…]()
 ---
 title: Configuring Docker for use with GitHub Packages
 intro: 'You can configure the Docker client to use {% data variables.product.prodname_registry %} to publish and retrieve docker images.'
